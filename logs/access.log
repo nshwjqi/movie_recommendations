@@ -1,0 +1,6 @@
+172.18.0.1 - - [22/May/2025:07:59:27 +0000] "GET / HTTP/1.1" 502 559 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" "-"
+172.18.0.1 - - [22/May/2025:07:59:32 +0000] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 502 559 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" "-"
+172.18.0.1 - - [22/May/2025:08:23:26 +0000] "GET / HTTP/1.1" 200 304 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" "-"
+172.18.0.1 - - [22/May/2025:08:23:28 +0000] "GET / HTTP/1.1" 200 304 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" "-"
+172.18.0.1 - - [22/May/2025:08:23:37 +0000] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 200 304 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" "-"
+172.18.0.1 - - [22/May/2025:08:25:26 +0000] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 200 304 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" "-"
